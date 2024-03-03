@@ -1,0 +1,14 @@
+AlmaLinux
+Arch Linux
+CentOS
+
+Debian
+Fedora
+
+
+Gentoo
+Manjaro
+openSUSE
+Red Hat
+
+Ubuntu
