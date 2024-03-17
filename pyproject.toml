@@ -1,15 +1,18 @@
 [tool.poetry]
-name = "python-pro"
-version = "0.1.0"
-description = ""
-authors = ["DanilMargaryan <margaryan.danil@mail.ru>"]
-readme = "README.md"
+name = "python-pro-latex-remaster"
+version = "0.1.2"
+description = "LaTeX helper functions for Python"
+authors = ["DanilMargaryan <daniilmargaran31028@gmail.com>"]
+packages = [
+    { include = "latex" }
+]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.7"
 click = "^8.1.7"
 
 
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
